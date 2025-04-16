@@ -48,6 +48,10 @@ I am interested in understanding and modeling human behaviors in transportation 
 - Jan 2025: I attended the 104rd Transportation Research Board Annual Meeting (TRB2025) in Washington D.C., USA. My collabrator Zhanhong Cheng and I presented our work in the poster session.
 - Oct 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at [MIT Urban Mobility Lab](https://mobility.mit.edu/). [[Slides]](assets/files/MIT_SRB2024.pdf)
 - Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, underspervised by Prof. Lijun Sun and Prof. Martin Trépanier.
+- Feb 2025: Our paper "Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model" (authors: **Xiaoxu Chen**, Saeid Saidi, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text]](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)
+- Jan 2025: I attended the 104rd Transportation Research Board Annual Meeting (TRB2025) in Washington D.C., USA. My collabrator Zhanhong Cheng and I presented our work in the poster session.
+- Oct 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at [MIT Urban Mobility Lab](https://mobility.mit.edu/). [[Slides]](assets/files/MIT_SRB2024.pdf)
+- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, underspervised by Prof. Lijun Sun and Prof. Martin Trépanier.
 
 Found more in [archived news](_posts/2020-11-08-archived-news.md)
 
