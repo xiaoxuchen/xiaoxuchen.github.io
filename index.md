@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: initial
 title: "Home"
 ---
 
