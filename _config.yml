@@ -2,18 +2,21 @@
 title:          About me
 description:    "Home"
 # baseurl:        "/tale"
-url:            "https://xiaoxuchen.github.io/"
+url:            "https://chengzhanhong.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# google_analytics: G-F3HF3GB75L
 
 # Author
 author:
-  name:         Xiaoxu Chen
-  url:          https://xiaoxuchen.github.io/
-  email:        xiaoxu.chen@mcgill.ca
+  name:         Zhanhong Cheng
+  url:          https://chengzhanhong.github.io
+  email:        chengzhanhong@mail.mcgill.ca
+
 # Build settings
-markdown:       kramdown
+markdown: kramdown
+# kramdown:
+#     math_engine: katex
 include:
   - _pages
 
@@ -27,11 +30,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
 paginate:       5
+permalink:      /:year-:month-:day/:title
+paginate_path: "/posts/page:num/"
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]

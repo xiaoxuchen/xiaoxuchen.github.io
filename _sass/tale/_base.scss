@@ -11,7 +11,7 @@ body {
 }
 
 html {
-  font-family: $serif-primary;
+  font-family: $sans-serif;
   font-size: 14px;
   overflow-y: scroll;
 
@@ -55,6 +55,61 @@ blockquote {
   }
 }
 
+
+figcaption {
+  color: $default-tint;
+  display: block;
+  font-family: $sans-serif;
+  font-size: 0.9rem;
+  font-style: normal;
+  text-align: center;
+}
+
+
+figure.right{
+  float: right;
+  margin-top: 0;
+  margin-right:0;
+  margin-left: 10;
+  margin-bottom: 10;
+  }
+
+figure.left {
+  float: left;
+  margin-top: 0;
+  margin-right: 10;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.icon {
+  transition: transform 0.2s ease;
+  width: 30px;
+  height: 30px;
+  filter: invert(20%) sepia(2%) saturate(6%) hue-rotate(337deg) brightness(96%) contrast(94%);
+}
+.icon:hover {
+  // filter: invert(50%) sepia(2%) saturate(6%) hue-rotate(337deg) brightness(96%) contrast(94%);
+  transform: scale(1.2);
+}
+
+@media all and (max-width: 800px) {
+  figure.right {
+    float: none;
+    margin-top: 0;
+    margin-right:0;
+    margin-left: 0;
+    margin-bottom: 10;
+    }
+  figure.left {
+    float: none;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+}
+
 img {
   display: block;
   margin: 0 0 1rem;
@@ -63,4 +118,15 @@ img {
 
 td {
   vertical-align: top;
+}
+
+/* lists */
+ul li,
+ol li {
+  margin-bottom: 0.5em;
+}
+
+li ul,
+li ol {
+  margin-top: 0.5em;
 }
