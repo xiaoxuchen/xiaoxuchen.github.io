@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <figure class="left">
-  <img src="assets\images\xiaoxu_mcgill.JPG.jpeg" width="200" alt="My portrait"/>
+  <img src="assets\images\xiaoxu2.jpeg" width="200" alt="My portrait"/>
 <!--   <figcaption>. </figcaption> -->
 </figure>
 
