@@ -2,16 +2,16 @@
 title:          About me
 description:    "Home"
 # baseurl:        "/tale"
-url:            "https://chengzhanhong.github.io"
+url:            "https://xiaoxuchen.github.io"
 
 # Google Analytics
 # google_analytics: G-F3HF3GB75L
 
 # Author
 author:
-  name:         Zhanhong Cheng
-  url:          https://chengzhanhong.github.io
-  email:        chengzhanhong@mail.mcgill.ca
+  name:         Xiaoxu Chen
+  url:          https://xiaoxuchen.github.io
+  email:        xiaoxu.chen@mcgill.ca
 
 # Build settings
 markdown: kramdown
