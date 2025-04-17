@@ -57,7 +57,7 @@ I am interested in understanding and modeling human behaviors in transportation 
 Found more in [archived news](_pages/News.md)
 
 -------------
-## Selected publications
+## Selected works
 - **Chen, X.**, Cheng, Z., Jin, J. G., Trépanier, M., & Sun, L. (2023). Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model. Transportation Science, 57(6), 1516-1535. [[Full-text]](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.0214) [[Slides]](assets\files\BayesianGMM_caspt.pdf)
 - **Chen, X.**, Cheng, Z., Schmidt, A. M., & Sun, L. (2025). Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression. Transportation Research Part B: Methodological, 192, 103147. [[Full-text]](https://www.sciencedirect.com/science/article/pii/S0191261524002716) [[Slides]](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf) **(Best Paper Award from AED60 TRB Statistical and Econometric Methods Committee🏅)**
 - **Chen, X.**, Saidi, S., & Sun, L. (2025). Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model. Transportation Research Part C: Emerging Technologies, 171, 105000. [[Full-text]](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)
