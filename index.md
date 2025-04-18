@@ -45,7 +45,7 @@ Welcome! I am Xiaoxu Chen (陈晓旭), a Postdoctoral Fellow at McGill Universit
 
 ## Research interests
 
-I am interested in statistical machine learning and optimization for transportation and supply chain management. Currently, I am particularly interested in discrete choice models, spatiotemporal data modeling, and data-driven optimization under uncertainty. In the domain of transportation, I focus on probabilistic transit demand and travel time forecasting, statistical inference of origin-destination matrices (an inverse problem), and statistical modeling of human driving behavior. In supply chain management, I explore problems such as statistical demand modeling and multi-echelon inventory optimization, with an emphasis on incorporating uncertainty into decision-making processes.
+I am interested in statistical machine learning and optimization for transportation and supply chain management. Currently, I am particularly interested in discrete choice models, spatiotemporal data modeling, and data-driven optimization under uncertainty. In the domain of transportation, I focus on probabilistic demand and travel time forecasting, statistical inference of origin-destination matrices (an inverse problem), and statistical modeling of human driving behavior. In supply chain management, I explore problems such as statistical demand modeling and multi-echelon inventory optimization, with an emphasis on incorporating uncertainty into decision-making processes.
 
 -------------
 ## News
@@ -61,7 +61,7 @@ Found more in [archived news](_pages/News.md)
 
 -------------
 ## Selected works
-- **Chen, X.**, Cheng, Z., Jin, J. G., Trépanier, M., & Sun, L. (2023). Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model. Transportation Science, 57(6), 1516-1535. [[Full-text]](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.0214) [[Slides]](assets\files\BayesianGMM_caspt.pdf)
+- **Chen, X.**, Cheng, Z., Jin, J. G., Trépanier, M., & Sun, L. (2023). Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model. *Transportation Science*, 57(6), 1516-1535. [[Full-text]](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.0214) [[Slides]](assets\files\BayesianGMM_caspt.pdf)
 - **Chen, X.**, Cheng, Z., Schmidt, A. M., & Sun, L. (2025). Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression. Transportation Research Part B: Methodological, 192, 103147. [[Full-text]](https://www.sciencedirect.com/science/article/pii/S0191261524002716) [[Slides]](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf) **(Best Paper Award from AED60 TRB Statistical and Econometric Methods Committee🏅)**
 - **Chen, X.**, Saidi, S., & Sun, L. (2025). Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model. Transportation Research Part C: Emerging Technologies, 171, 105000. [[Full-text]](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)
 - **Chen, X.**, Cheng, Z., & Sun, L. (2024). Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services. (Under review in Transportation Research Part B: Methodological) [[Full-text]](https://arxiv.org/abs/2403.04742)[[Slides]](assets\files\MIT_Xiaoxu_notes2.pdf)
