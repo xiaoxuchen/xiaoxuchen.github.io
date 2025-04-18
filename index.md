@@ -55,7 +55,7 @@ I am interested in **statistics** and **optimization** for **transportation** an
 - Oct 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at [MIT Urban Mobility Lab](https://mobility.mit.edu/). [[Slides]](assets\files\MIT_Xiaoxu_notes2.pdf)
 - Sep 2024: I am glad to give a talk on "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" at HEC Montréal. [[Slides]](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)
 - Sep 2024: I attended Conference in Emerging Technologies in Transportation Systems (TRC-30) in Crete, Greece. I presented our work on the Podium session. [[Slides]](assets\files\MIT_Xiaoxu_notes2.pdf)
-- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, underspervised by Prof. Lijun Sun and Prof. Martin Trépanier.
+- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, advised by Prof. Lijun Sun and Prof. Martin Trépanier.
 
 Found more in [archived news](_pages/News.md)
 

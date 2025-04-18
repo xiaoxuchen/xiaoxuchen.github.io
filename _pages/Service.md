@@ -15,6 +15,9 @@ permalink: /service/
 - Transportation Research Part C: Emerging Technologies
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Record
+- IEEE Internet of Things Journal
+- IEEE Transactions on Neural Networks and Learning Systems
+- Journal of Transport Geography
 
 ## Conference reviewer
 - Transportation Research Board (TRB) Annual Meeting
@@ -22,5 +25,7 @@ permalink: /service/
 - International Symposium on Transportation Data & Modelling
 
 # Membership
-- Member of IEEE, 2024 -- present.
+- Member of Institute of Electrical and Electronics Engineers (IEEE), 2024 -- present.
+- Student Member of American Statistical Association (ASA)
+- Member of Transportation Statistics Interest Group (TSIG)
 

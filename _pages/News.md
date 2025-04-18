@@ -11,7 +11,7 @@ permalink: /news/
 - Sep 2024: I am glad to give a talk on "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" at HEC Montréal. [[Slides]](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)
 - Sep 2024: Our paper "Bayesian inference for link travel time correlation of a bus route" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportmetrica B: Transport Dynamics. [[Full-text]](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2416181)
 - Sep 2024: I attended Conference in Emerging Technologies in Transportation Systems (TRC-30) in Crete, Greece. I presented our work on the Podium session. [[Slides]](assets\files\MIT_Xiaoxu_notes2.pdf)
-- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, underspervised by Prof. Lijun Sun and Prof. Martin Trépanier.
+- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, advised by Prof. Lijun Sun and Prof. Martin Trépanier.
 - Jul 2024: I completed my Ph.D. jurney at McGill University! Thank you, Prof. Lijun Sun! And thank you eveyone!
 - Jul 2024: Our paper "Long-term airport network performance forecasting with linear diffusion graph networks" (authors: Yuankai Wu, Jing Yang, **Xiaoxu Chen**, Yi Lin, Hongyu Yang) was published by IEEE Transactions on Intelligent Transportation Systems. [[Full-text]](https://ieeexplore.ieee.org/abstract/document/10589713)
 - Apr 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at Department of Civil Engineering, University of Calgary.
