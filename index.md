@@ -16,7 +16,7 @@ Ph.D. (2024) in Civil Engineering, McGill University, Canada
 
 M.S. (2020) in Transportation Engineering, Tongji University, China
 
-B.Eng. (2017) in Traffic Engineering, Harbin Institute of Technology, China
+B.Eng. (2017) in Transportation Engineering, Harbin Institute of Technology, China
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:xiaoxu.chen@mcgill.ca" target="_blank">
