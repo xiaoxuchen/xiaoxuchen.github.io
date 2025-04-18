@@ -25,7 +25,7 @@ permalink: /service/
 - International Symposium on Transportation Data & Modelling
 
 # Membership
-- Member of Institute of Electrical and Electronics Engineers (IEEE), 2024 -- present.
+- Member of Institute of Electrical and Electronics Engineers (IEEE)
 - Student Member of American Statistical Association (ASA)
 - Member of Transportation Statistics Interest Group (TSIG)
 
