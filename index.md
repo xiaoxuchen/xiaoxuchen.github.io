@@ -45,7 +45,7 @@ Welcome! I am Xiaoxu Chen (陈晓旭), a Postdoctoral Fellow at McGill Universit
 
 ## Research interests
 
-I am interested in understanding and modeling human behaviors in transportation systems by Bayesian statistics and machine learning methods. Currently, my research centers the following areas:
+I am interested in statistical machine learning and optimization for transportation and supply chain management. Currently, I am particularly interested in discrete choice models, spatiotemporal data modeling, and data-driven optimization under uncertainty. In the domain of transportation, my work focuses on probabilistic transit demand and travel time forecasting, statistical inference of origin-destination matrices (an inverse problem), and modeling human driving behavior using statistical approaches. In supply chain management, I explore problems such as demand forecasting and multi-echelon inventory optimization, with an emphasis on incorporating uncertainty into decision-making processes.
 
 -------------
 ## News
