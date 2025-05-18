@@ -4,6 +4,7 @@ title:  "News"
 author: "Xiaoxu Chen"
 permalink: /news/
 ---
+- May 2025: I attended Conference JOPT2025 (Optimization Days) and International Conference on Variable Neighborhood Search in Montreal, Canada. I presented our work on the Podium session.
 - Feb 2025: Our paper "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Alexandra M. Schmidt, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)]
 - Feb 2025: Our paper "Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model" (authors: **Xiaoxu Chen**, Saeid Saidi, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)]
 - Jan 2025: I attended the 104rd Transportation Research Board Annual Meeting (TRB2025) in Washington D.C., USA. Prof. Sun, thanks for your support! My collabrator Zhanhong Cheng and I presented our work in the poster session.
