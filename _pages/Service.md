@@ -13,6 +13,7 @@ permalink: /service/
 - Transportation Research Part A: Policy and Practice
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
+- Transportation Research Part D: Transport and Environment
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Record
 - IEEE Internet of Things Journal
