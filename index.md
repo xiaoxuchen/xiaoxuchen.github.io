@@ -62,6 +62,7 @@ Found more in [archived news](_pages/News.md)
 
 -------------
 ## Selected works
+- **Chen, X.**, Schmidt, A. M., Ma, Z., & Sun, L. (2025). Bayesian spatiotemporal modeling of passenger trip assignment in metro networks. (Under review in Annals of Applied Statistics) [[Full-text](https://arxiv.org/abs/2507.22403)]
 - **Chen, X.**, Cheng, Z., & Sun, L. (2025). Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services. *Transportation Research Part B: Methodological*, 199, 103278. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)][[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
 - **Chen, X.**, Cheng, Z., Schmidt, A. M., & Sun, L. (2025). Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression. *Transportation Research Part B: Methodological*, 192, 103147. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)] [[Slides](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)] ([Best Paper Award from TRB AED60 Statistical and Econometric Methods Committee](https://trbstats.weebly.com/)🏅)
 - **Chen, X.**, Saidi, S., & Sun, L. (2025). Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model. *Transportation Research Part C: Emerging Technologies*, 171, 105000. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)]
