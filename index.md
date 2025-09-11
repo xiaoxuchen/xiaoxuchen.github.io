@@ -10,7 +10,7 @@ title: "Home"
 
 # Xiaoxu Chen
 
-Postdoctoral Fellow, McGill University, Canada
+Postdoctoral Fellow in Logistics and Operations Management, HEC Montréal, Canada
 
 Ph.D. (2024) in Civil Engineering, McGill University, Canada
 
@@ -39,7 +39,7 @@ B.Eng. (2017) in Traffic Engineering, Harbin Institute of Technology, China
 --------------
 
 <!-- <br> -->
-Welcome! I am Xiaoxu Chen (陈晓旭), a Postdoctoral Fellow at McGill University, working with Prof. [Lijun Sun](https://lijunsun.github.io/) and Prof. [Martin Trépanier](https://www.polymtl.ca/expertises/en/trepanier-martin) on statistical models with applications in transportation. Starting this fall, I will join HEC Montréal as a Postdoctoral Fellow, working with Prof. [Yossiri Adulyasak](https://sites.google.com/site/ayossiri/home) and Prof. [Jean-François Cordeau](https://www.hec.ca/en/profs/jean-francois.cordeau.html) on stochastic optimization in supply chain management.
+Welcome! I am Xiaoxu Chen (陈晓旭), a Postdoctoral Fellow at HEC Montréal, working with Prof. [Yossiri Adulyasak](https://sites.google.com/site/ayossiri/home) and Prof. [Jean-François Cordeau](https://www.hec.ca/en/profs/jean-francois.cordeau.html) on stochastic optimization in supply chain management. Before joining HEC Montréal, I worked with Prof. [Lijun Sun](https://lijunsun.github.io/) and Prof. [Martin Trépanier](https://www.polymtl.ca/expertises/en/trepanier-martin) on statistical models with applications in transportation.
 
 --------------
 
