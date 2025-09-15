@@ -19,7 +19,7 @@ M.S. (2020) in Transportation Engineering, Tongji University, China
 B.Eng. (2017) in Traffic Engineering, Harbin Institute of Technology, China
 
 <div style="display: flex; align-items: center;">
-<a href="mailto:xiaoxu.chen@mcgill.ca" target="_blank">
+<a href="mailto:xiaoxu.chen@hec.ca" target="_blank">
 <img src="assets\images\envelope-solid.svg" alt="Email" class="icon" title="Email me" style="margin-right:10px">
 </a>
 
