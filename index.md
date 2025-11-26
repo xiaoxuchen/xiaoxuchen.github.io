@@ -49,20 +49,20 @@ I am interested in **statistics** and **optimization** for **transportation** an
 
 -------------
 ## News
+- Nov 2025: Our paper "Statistical inference of boarding and alighting counts in transit systems with incomplete data" (authors: **Xiaoxu Chen**, Marc‑Olivier Thibault, Martin Trépanier, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies.
+- Nov 2025: Our paper "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting" (authors: **Xiaoxu Chen**, Martin Trépanier, Lijun Sun) was accepted by ISTTT 2026.
 - Jun 2025: Our paper "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)]
 - Feb 2025: Our paper "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Alexandra M. Schmidt, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)]
 - Feb 2025: Our paper "Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model" (authors: **Xiaoxu Chen**, Saeid Saidi, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)]
-- Jan 2025: I attended the 104th Transportation Research Board Annual Meeting (TRB2025) in Washington D.C., USA. Prof. Sun, thanks for your support! My collabrator Zhanhong Cheng and I presented our work in the poster session.
 - Oct 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at [MIT Urban Mobility Lab](https://mobility.mit.edu/). [[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
 - Sep 2024: I am glad to give a talk on "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" at HEC Montréal. [[Slides](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)]
-- Sep 2024: I attended Conference in Emerging Technologies in Transportation Systems (TRC-30) in Crete, Greece. I presented our work on the Podium session. [[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
-- Sep 2024: I began my role as a Postdoctoral Scholar at McGill University, advised by Prof. Lijun Sun and Prof. Martin Trépanier.
 
 Found more in [archived news](_pages/News.md)
 
 -------------
 ## Selected works
 - **Chen, X.**, Schmidt, A. M., Ma, Z., & Sun, L. (2025). Bayesian spatiotemporal modeling of passenger trip assignment in metro networks. (Under review in Annals of Applied Statistics) [[Full-text](https://arxiv.org/abs/2507.22403)]
+- **Chen, X.**, Thibault, O., Trépanier, M., & Sun, L. (2025). Statistical inference of boarding and alighting counts in transit systems with incomplete data. (Accept at Transportation Research Part C: Emerging Technologies)
 - **Chen, X.**, Cheng, Z., & Sun, L. (2025). Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services. Transportation Research Part B: Methodological, 199, 103278. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)][[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
 - **Chen, X.**, Cheng, Z., Schmidt, A. M., & Sun, L. (2025). Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression. Transportation Research Part B: Methodological, 192, 103147. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)] [[Slides](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)] ([Best Paper Award from TRB AED60 Statistical and Econometric Methods Committee](https://trbstats.weebly.com/)🏅)
 - **Chen, X.**, Saidi, S., & Sun, L. (2025). Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model. Transportation Research Part C: Emerging Technologies, 171, 105000. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)]

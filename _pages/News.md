@@ -4,6 +4,9 @@ title:  "News"
 author: "Xiaoxu Chen"
 permalink: /news/
 ---
+- Nov 2025: Our paper "Statistical inference of boarding and alighting counts in transit systems with incomplete data" (authors: **Xiaoxu Chen**, Marc‑Olivier Thibault, Martin Trépanier, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies.
+- Nov 2025: Our paper "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting" (authors: **Xiaoxu Chen**, Martin Trépanier, Lijun Sun) was accepted by ISTTT 2026.
+- Oct 2025: I attended the 2025 INFORMS Annual Meeting in Atlanta, Georgia. It was a fantastic experience exploring how statistics, optimization, and AI are jointly reshaping the management and operations, and I look forward to contributing to these ongoing conversations.
 - Jun 2025: Our paper "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://arxiv.org/abs/2403.04742)]
 - May 2025: I attended Conference JOPT2025 (Optimization Days) and International Conference on Variable Neighborhood Search in Montreal, Canada. I presented our work on the Podium session.
 - Feb 2025: Our paper "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Alexandra M. Schmidt, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)]
