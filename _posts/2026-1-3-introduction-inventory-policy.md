@@ -59,11 +59,11 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
 * **Cons:** Struggles with demand spikes. If a large order drops stock far below s, ordering just Q may not be enough to recover safely.
 
-### **B. Order-Point, Order-Up-to-Level $(s, S)$**
-* **Mechanism:** When inventory position &le s, order enough to raise the level to S.
+### **B. Order-Point, Order-Up-to-Level (s, S)**
+* **Mechanism:** When inventory position $$\le s$$, order enough to raise the level to S.
 * **Also Known As:** The "Min-Max System".
 * **Best For:** **A Items** (High value/importance).
-* **Pros:** robust against variable demand sizes. It guarantees inventory is restored to the full target level ($S$) regardless of how low it dropped.
+* **Pros:** robust against variable demand sizes. It guarantees inventory is restored to the full target level (S) regardless of how low it dropped.
 * **Cons:** Mathematically complex to optimize compared to fixed-quantity systems.
 
 ---
@@ -71,20 +71,20 @@ Inventory control systems are defined by how often they check inventory (**Revie
 ### Periodic Review Systems
 *Inventory is checked only at fixed intervals (e.g., weekly or monthly). Between reviews, the system is "blind" to the stock level.*
 
-### **C. Periodic-Review, Order-Up-to-Level $(R, S)$**
-* **Mechanism:** Every $R$ units of time, place an order to raise the inventory level to $S$.
+### **C. Periodic-Review, Order-Up-to-Level (R, S)**
+* **Mechanism:** Every R units of time, place an order to raise the inventory level to S.
 * **Also Known As:** The "Replenishment Cycle System".
 * **Best For:** **B Items** (Moderate value/importance).
 * **Pros:** Excellent for coordination. You can group orders for multiple items from one supplier to save on shipping costs.
-* **Cons:** Requires higher safety stock/carrying costs because inventory must cover demand for the review interval ($R$) plus the lead time.
+* **Cons:** Requires higher safety stock/carrying costs because inventory must cover demand for the review interval (R) plus the lead time.
 
-### **D. The $(R, s, S)$ System (Hybrid)**
-* **Mechanism:** Every $R$ units of time, check the inventory:
-    * **If** inventory $\le s$, order up to $S$.
-    * **If** inventory $> s$, do nothing.
+### **D. The (R, s, S) System (Hybrid)**
+* **Mechanism:** Every R units of time, check the inventory:
+    * **If** inventory $$\le s$$, order up to S.
+    * **If** inventory $$> s$$, do nothing.
 * **Best For:** **A Items** (High value/importance).
 * **Pros:** The most "optimal" general form found in mathematical research.
-* **Cons:** Computationally intensive. Finding the best values for all three parameters ($R, s, S$) requires significant effort.
+* **Cons:** Computationally intensive. Finding the best values for all three parameters (R, s, S) requires significant effort.
 
 ---
 
@@ -93,8 +93,8 @@ Inventory control systems are defined by how often they check inventory (**Revie
 
 | Item Classification | Continuous Review | Periodic Review |
 | :--- | :--- | :--- |
-| **A Items (High Value)** | **$(s, S)$** | **$(R, s, S)$** |
-| **B Items (Moderate Value)** | **$(s, Q)$** | **$(R, S)$** |
+| **A Items (High Value)** | **(s, S)** | **(R, s, S)** |
+| **B Items (Moderate Value)** | **(s, Q)** | **(R, S)** |
 
 
 
