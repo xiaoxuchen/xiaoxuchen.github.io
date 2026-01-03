@@ -59,6 +59,12 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
 * **Cons:** Struggles with demand spikes. If a large order drops stock far below s, ordering just Q may not be enough to recover safely.
 
+<figure style="text-align: center; font-style: italic;">
+  <img src="assets/images/sQ.png" width="800" alt="sQ"/>
+  <figcaption>Example of (s, Q) policy</figcaption>
+</figure>
+
+
 ### **B. Order-Point, Order-Up-to-Level (s, S)**
 * **Mechanism:** When inventory position $$\le s$$, order enough to raise the level to S.
 * **Also Known As:** The "Min-Max System".
