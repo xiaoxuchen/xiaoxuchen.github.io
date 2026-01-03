@@ -42,18 +42,18 @@ Note: Firms often devote the most sophisticated control efforts to A items, simp
 ### Overview & Definitions
 Inventory control systems are defined by how often they check inventory (**Review Interval**) and how they determine the **Order Size**.
 
-* **$s$ (Reorder Point):** The inventory level that triggers a new order.
-* **$Q$ (Order Quantity):** A fixed amount ordered every time.
-* **$S$ (Order-Up-To Level):** The target maximum inventory level.
-* **$R$ (Review Interval):** The time between inventory checks.
+* **s (Reorder Point):** The inventory level that triggers a new order.
+* **Q (Order Quantity):** A fixed amount ordered every time.
+* **S (Order-Up-To Level):** The target maximum inventory level.
+* **R (Review Interval):** The time between inventory checks.
 
 ---
 
-## Continuous Review Systems
+### Continuous Review Systems
 *Inventory is monitored constantly (effectively $R=0$). Orders are triggered immediately when stock drops to the reorder point.*
 
-### **A. Order-Point, Order-Quantity $(s, Q)$**
-* **Mechanism:** When inventory position $\le s$, order a fixed quantity $Q$.
+### **A. Order-Point, Order-Quantity (s, Q)**
+* **Mechanism:** When inventory position \(\le s\), order a fixed quantity $Q$.
 * **Also Known As:** The "Two-Bin System".
 * **Best For:** **B Items** (Moderate value/importance).
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
@@ -68,7 +68,7 @@ Inventory control systems are defined by how often they check inventory (**Revie
 
 ---
 
-## Periodic Review Systems
+### Periodic Review Systems
 *Inventory is checked only at fixed intervals (e.g., weekly or monthly). Between reviews, the system is "blind" to the stock level.*
 
 ### **C. Periodic-Review, Order-Up-to-Level $(R, S)$**
