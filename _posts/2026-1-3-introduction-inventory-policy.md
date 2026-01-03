@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Introduction of Inventory Control Systems"
 author: "Xiaoxu Chen"
 tags: Supply chain management
