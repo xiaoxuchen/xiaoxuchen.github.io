@@ -90,7 +90,7 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Cons:** Requires higher safety stock/carrying costs because inventory must cover demand for the review interval (R) plus the lead time.
 
 <p align="center">
-  <img src="../assets/images/rS.png" alt="rS" width="80%">
+  <img src="../assets/images/Rs.png" alt="rS" width="80%">
 </p>
 <p align="center"><em>Example for (R,S) policy.</em></p>
 
@@ -103,7 +103,7 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Cons:** Computationally intensive. Finding the best values for all three parameters (R, s, S) requires significant effort.
 
 <p align="center">
-  <img src="../assets/images/rsS.png" alt="rsS" width="80%">
+  <img src="../assets/images/RsS.png" alt="rsS" width="80%">
 </p>
 <p align="center"><em>Example for (R,s,S) policy.</em></p>
 
