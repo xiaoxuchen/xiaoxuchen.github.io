@@ -59,10 +59,10 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
 * **Cons:** Struggles with demand spikes. If a large order drops stock far below s, ordering just Q may not be enough to recover safely.
 
-<figure class="left">
-  <img src="assets/images/sQ.png" width="800" alt="sQ"/>
-  <figcaption>Example of (s, Q) policy</figcaption>
-</figure>
+<p align="center">
+  <img src="../assets/images/sQ.png" alt="sQ" width="80%">
+</p>
+<p align="center"><em>Example for (s,Q) policy.</em></p>
 
 
 ### **B. Order-Point, Order-Up-to-Level (s, S)**
@@ -71,6 +71,11 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Best For:** **A Items** (High value/importance).
 * **Pros:** robust against variable demand sizes. It guarantees inventory is restored to the full target level (S) regardless of how low it dropped.
 * **Cons:** Mathematically complex to optimize compared to fixed-quantity systems.
+
+<p align="center">
+  <img src="../assets/images/sS.png" alt="sS" width="80%">
+</p>
+<p align="center"><em>Example for (s,S) policy.</em></p>
 
 ---
 
@@ -84,6 +89,11 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Pros:** Excellent for coordination. You can group orders for multiple items from one supplier to save on shipping costs.
 * **Cons:** Requires higher safety stock/carrying costs because inventory must cover demand for the review interval (R) plus the lead time.
 
+<p align="center">
+  <img src="../assets/images/rS.png" alt="rS" width="80%">
+</p>
+<p align="center"><em>Example for (R,S) policy.</em></p>
+
 ### **D. The (R, s, S) System (Hybrid)**
 * **Mechanism:** Every R units of time, check the inventory:
     * **If** inventory $$\le s$$, order up to S.
@@ -91,6 +101,11 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Best For:** **A Items** (High value/importance).
 * **Pros:** The most "optimal" general form found in mathematical research.
 * **Cons:** Computationally intensive. Finding the best values for all three parameters (R, s, S) requires significant effort.
+
+<p align="center">
+  <img src="../assets/images/rsS.png" alt="rsS" width="80%">
+</p>
+<p align="center"><em>Example for (R,s,S) policy.</em></p>
 
 ---
 
