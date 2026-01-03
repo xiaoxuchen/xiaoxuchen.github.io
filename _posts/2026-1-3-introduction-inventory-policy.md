@@ -53,14 +53,14 @@ Inventory control systems are defined by how often they check inventory (**Revie
 *Inventory is monitored constantly (effectively $R=0$). Orders are triggered immediately when stock drops to the reorder point.*
 
 ### **A. Order-Point, Order-Quantity (s, Q)**
-* **Mechanism:** When inventory position \(\le s\), order a fixed quantity $Q$.
+* **Mechanism:** When inventory position $$\le s$$, order a fixed quantity Q.
 * **Also Known As:** The "Two-Bin System".
 * **Best For:** **B Items** (Moderate value/importance).
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
-* **Cons:** Struggles with demand spikes. If a large order drops stock far below $s$, ordering just $Q$ may not be enough to recover safely.
+* **Cons:** Struggles with demand spikes. If a large order drops stock far below s, ordering just Q may not be enough to recover safely.
 
 ### **B. Order-Point, Order-Up-to-Level $(s, S)$**
-* **Mechanism:** When inventory position $\le s$, order enough to raise the level to $S$.
+* **Mechanism:** When inventory position &le s, order enough to raise the level to S.
 * **Also Known As:** The "Min-Max System".
 * **Best For:** **A Items** (High value/importance).
 * **Pros:** robust against variable demand sizes. It guarantees inventory is restored to the full target level ($S$) regardless of how low it dropped.
