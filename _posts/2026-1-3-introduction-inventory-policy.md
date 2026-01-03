@@ -59,7 +59,7 @@ Inventory control systems are defined by how often they check inventory (**Revie
 * **Pros:** Simple and predictable. Suppliers prefer it because the order size is always constant.
 * **Cons:** Struggles with demand spikes. If a large order drops stock far below s, ordering just Q may not be enough to recover safely.
 
-<figure class="center">
+<figure class="left">
   <img src="assets/images/sQ.png" width="800" alt="sQ"/>
   <figcaption>Example of (s, Q) policy</figcaption>
 </figure>
