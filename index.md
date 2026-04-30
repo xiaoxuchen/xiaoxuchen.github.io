@@ -10,13 +10,19 @@ title: "Home"
 
 # Xiaoxu Chen
 
-Postdoctoral Fellow, HEC Montréal, Canada
+Postdoc @ HEC Montréal, Canada
 
-Ph.D. (2024) in Civil Engineering, McGill University, Canada
+Ph.D. (2024) @ McGill University, Canada
+
+M.S. (2020) @ Tongji University, China
+
+B.S. (2017) @ Harbin Institute of Technology, China
+
+<!-- Ph.D. (2024) in Civil Engineering, McGill University, Canada
 
 M.S. (2020) in Transportation Engineering, Tongji University, China
 
-B.Eng. (2017) in Traffic Engineering, Harbin Institute of Technology, China
+B.Eng. (2017) in Traffic Engineering, Harbin Institute of Technology, China -->
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:xiaoxu.chen@hec.ca" target="_blank">
