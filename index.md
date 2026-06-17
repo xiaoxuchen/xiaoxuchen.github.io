@@ -55,7 +55,7 @@ I am interested in **statistics** and **optimization** for **transportation** an
 
 -------------
 ## News
-- June 2026: Our paper "Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling" (authors: **Xiaoxu Chen**, Yafeng Yin, Lijun Sun) was accepted by Transportation Science.
+- June 2026: Our paper "Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling" (authors: **Xiaoxu Chen**, Yafeng Yin, Lijun Sun) was accepted by TS.
 - Nov 2025: Our paper "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting" (authors: **Xiaoxu Chen**, Martin Trépanier, Lijun Sun) was accepted by ISTTT 2026.
 - Nov 2025: Our paper "Statistical inference of boarding and alighting counts in transit systems with incomplete data" (authors: **Xiaoxu Chen**, Marc‑Olivier Thibault, Martin Trépanier, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X25004887)]
 - Jun 2025: Our paper "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)]
