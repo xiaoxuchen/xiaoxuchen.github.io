@@ -55,6 +55,7 @@ I am interested in **statistics** and **optimization** for **transportation** an
 
 -------------
 ## News
+- June 2026: Our paper "Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling" (authors: **Xiaoxu Chen**, Yafeng Yin, Lijun Sun) was accepted by Transportation Science.
 - Nov 2025: Our paper "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting" (authors: **Xiaoxu Chen**, Martin Trépanier, Lijun Sun) was accepted by ISTTT 2026.
 - Nov 2025: Our paper "Statistical inference of boarding and alighting counts in transit systems with incomplete data" (authors: **Xiaoxu Chen**, Marc‑Olivier Thibault, Martin Trépanier, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X25004887)]
 - Jun 2025: Our paper "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)]
@@ -68,6 +69,7 @@ Found more in [archived news](_pages/News.md)
 -------------
 ## Selected works
 - **Chen, X.**, Schmidt, A. M., Ma, Z., & Sun, L. (2025). Bayesian spatiotemporal modeling of passenger trip assignment in metro networks. (Under review in Annals of Applied Statistics) [[Full-text](https://arxiv.org/abs/2507.22403)]
+- **Chen, X.**, Yin, Y., & Sun, L. (2026). Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling. Accept at Transportation Science.
 - **Chen, X.**, Trépanier, M., & Sun, L. (2026). A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting. Transportation Research Part E: Logistics and Transportation Review, 211, 104872. [[Full-text](https://www.sciencedirect.com/science/article/pii/S1366554526002115)]
 - **Chen, X.**, Thibault, O., Trépanier, M., & Sun, L. (2026). Statistical inference of boarding and alighting counts in transit systems with incomplete data. Transportation Research Part C: Emerging Technologies, 183, 105484. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X25004887)]
 - **Chen, X.**, Cheng, Z., & Sun, L. (2025). Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services. Transportation Research Part B: Methodological, 199, 103278. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)][[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
