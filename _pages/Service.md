@@ -14,10 +14,12 @@ permalink: /service/
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
 - Transportation Research Part D: Transport and Environment
+- Transportation Research Part E: Logistics and Transportation Review
 - IEEE Transactions on Intelligent Transportation Systems
-- Transportation Research Record
-- IEEE Internet of Things Journal
 - IEEE Transactions on Neural Networks and Learning Systems
+- Transportation Research Record
+- Transportation
+- Expert Systems With Applications
 - Journal of Transport Geography
 
 ## Conference reviewer

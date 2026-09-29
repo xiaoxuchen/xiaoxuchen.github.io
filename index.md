@@ -68,6 +68,7 @@ Found more in [archived news](_pages/News.md)
 
 -------------
 ## Selected works
+- **Chen, X.**, Adulyasak, Y., & Cordeau, JF. (2026). Bayesian learning of demand and stockout-based substitution for risk-aware inventory optimization. (Under review) [[Full-text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7444520)]
 - **Chen, X.**, Schmidt, A. M., Ma, Z., & Sun, L. (2025). Bayesian spatiotemporal modeling of passenger trip assignment in metro networks. (Minor revision at Annals of Applied Statistics) [[Full-text](https://arxiv.org/abs/2507.22403)]
 - **Chen, X.**, Yin, Y., & Sun, L. (2026). Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling. Transportation Science. [[Full-text](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2026.0063)]
 - **Chen, X.**, Trépanier, M., & Sun, L. (2026). A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting. Transportation Research Part E: Logistics and Transportation Review, 211, 104872. [[Full-text](https://www.sciencedirect.com/science/article/pii/S1366554526002115)]
