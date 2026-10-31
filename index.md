@@ -10,7 +10,7 @@ title: "Home"
 
 # Xiaoxu Chen
 
-Postdoc @ HEC Montréal, Canada
+Postdoc @ HEC Montréal, Mila - Quebec AI Institute, Canada
 
 Ph.D. (2024) @ McGill University, Canada
 
@@ -55,14 +55,13 @@ I am interested in **statistics** and **optimization** for **transportation** an
 
 -------------
 ## News
-- June 2026: Our paper "Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling" (authors: **Xiaoxu Chen**, Yafeng Yin, Lijun Sun) was accepted by TS.
-- Nov 2025: Our paper "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting" (authors: **Xiaoxu Chen**, Martin Trépanier, Lijun Sun) was accepted by ISTTT 2026.
-- Nov 2025: Our paper "Statistical inference of boarding and alighting counts in transit systems with incomplete data" (authors: **Xiaoxu Chen**, Marc‑Olivier Thibault, Martin Trépanier, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X25004887)]
+- Oct 2026: I will attend the 2026 INFORMS Annual Meeting in San Francisco, where I will chair the session "Demand Forecasting in Retail and Supply Chains" on Nov 3 and present our research work titled "Bayesian learning of demand and substitution for dynamic inventory optimization."
+- Jul 2026: I attended the [26th International Symposium on Transportation and Traffic Theory (ISTTT 26)](https://www.isttt2026.vtk.ed.tum.de/index.html), at the Technical University of Munich, Germany, where I presented "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting." [[Slides]](assets\files\ISTTT26_Xiaoxu_slides.pdf)
+- Jul 2026: I attended the [Emerging Challenges in Statistical Modeling for Transportation Research workshop](https://www.birs.ca/events/2026/5-day-workshops/26w5601) at the [Banff International Research Station (BIRS)](https://www.birs.ca/), Banff, Canada. I presented "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts." [[Talk]](https://www.birs.ca/events/2026/5-day-workshops/26w5601/videos/watch/202607010950-Chen.html)[[Slides]](assets\files\BIRS_Xiaoxu_slides.pdf)
+- Jun 2026: Our paper "Inductive transportation origin-destination demand forecasting via Bayesian destination choice modeling" (authors: **Xiaoxu Chen**, Yafeng Yin, Lijun Sun) was accepted by TS.
 - Jun 2025: Our paper "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261525001274)]
 - Feb 2025: Our paper "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" (authors: **Xiaoxu Chen**, Zhanhong Cheng, Alexandra M. Schmidt, Lijun Sun) was accepted by Transportation Research Part B: Methodological. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0191261524002716)]
-- Feb 2025: Our paper "Understanding bus delay patterns under different temporal and weather conditions: A Bayesian Gaussian mixture model" (authors: **Xiaoxu Chen**, Saeid Saidi, Lijun Sun) was accepted by Transportation Research Part C: Emerging Technologies. [[Full-text](https://www.sciencedirect.com/science/article/pii/S0968090X2500004X)]
 - Oct 2024: I am glad to give a talk on "Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services" at [MIT Urban Mobility Lab](https://mobility.mit.edu/). [[Slides](assets\files\MIT_Xiaoxu_notes2.pdf)]
-- Sep 2024: I am glad to give a talk on "Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression" at HEC Montréal. [[Slides](assets\files\HEC_Xiaoxu_Bus_HMM_Slides.pdf)]
 
 Found more in [archived news](_pages/News.md)
 
